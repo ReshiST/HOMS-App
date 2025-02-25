@@ -41,7 +41,74 @@ To get a complete understanding of the project and see the full workflow, visit:
 
 Stay tuned for upcoming updates! 🚀  
 
+## 📸 Screenshots
 
-<img src="1.jpg" alt="App Screenshot" width="250">
-<img src="2.jpg" alt="App Screenshot" width="250">
+<p align="center">
+  <img src="1.jpg" alt="App Screenshot 1" width="250">
+  <img src="2.jpg" alt="App Screenshot 2" width="250">
+  <img src="3.jpg" alt="App Screenshot 3" width="250">
+</p>
 
+<p align="center">
+  <img src="4.jpg" alt="App Screenshot 4" width="250">
+  <img src="5.jpg" alt="App Screenshot 5" width="250">
+  <img src="6.jpg" alt="App Screenshot 6" width="250">
+</p>
+
+<p align="center">
+  <img src="7.jpg" alt="App Screenshot 7" width="250">
+  <img src="8.jpg" alt="App Screenshot 8" width="250">
+  <img src="9.jpg" alt="App Screenshot 9" width="250">
+</p>
+
+<p align="center">
+  <img src="10.jpg" alt="App Screenshot 10" width="250">
+  <img src="11.jpg" alt="App Screenshot 11" width="250">
+  <img src="12.jpg" alt="App Screenshot 12" width="250">
+</p>
+
+<p align="center">
+  <img src="13.jpg" alt="App Screenshot 13" width="250">
+  <img src="14.jpg" alt="App Screenshot 14" width="250">
+  <img src="15.jpg" alt="App Screenshot 15" width="250">
+</p>
+
+<p align="center">
+  <img src="16.jpg" alt="App Screenshot 16" width="250">
+  <img src="17.jpg" alt="App Screenshot 17" width="250">
+  <img src="18.jpg" alt="App Screenshot 18" width="250">
+</p>
+
+<p align="center">
+  <img src="19.jpg" alt="App Screenshot 19" width="250">
+  <img src="20.jpg" alt="App Screenshot 20" width="250">
+  <img src="21.jpg" alt="App Screenshot 21" width="250">
+</p>
+
+<p align="center">
+  <img src="22.jpg" alt="App Screenshot 22" width="250">
+  <img src="23.jpg" alt="App Screenshot 23" width="250">
+  <img src="24.jpg" alt="App Screenshot 24" width="250">
+</p>
+
+<p align="center">
+  <img src="25.jpg" alt="App Screenshot 25" width="250">
+  <img src="26.jpg" alt="App Screenshot 26" width="250">
+  <img src="27.jpg" alt="App Screenshot 27" width="250">
+</p>
+
+<p align="center">
+  <img src="28.jpg" alt="App Screenshot 28" width="250">
+  <img src="29.jpg" alt="App Screenshot 29" width="250">
+  <img src="30.jpg" alt="App Screenshot 30" width="250">
+</p>
+
+<p align="center">
+  <img src="31.jpg" alt="App Screenshot 31" width="250">
+  <img src="32.jpg" alt="App Screenshot 32" width="250">
+  <img src="33.jpg" alt="App Screenshot 33" width="250">
+</p>
+
+<p align="center">
+  <img src="34.jpg" alt="App Screenshot 34" width="250">
+</p>
