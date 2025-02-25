@@ -42,7 +42,7 @@ To get a complete understanding of the project and see the full workflow, visit:
 Stay tuned for upcoming updates! 🚀  
 
 
-## 🎥 Sample Video
+## 🎥 Sample Video - App
 
 <p align="center">
   <a href="https://reshist.me/homs_demo/app_screenshot/sample_video.mp4">
