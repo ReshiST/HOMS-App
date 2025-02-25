@@ -112,3 +112,8 @@ Stay tuned for upcoming updates! 🚀
 <p align="center">
   <img src="https://reshist.me/homs_demo/app_screenshot/34.jpg" alt="App Screenshot 34" width="250">
 </p>
+
+## 🎥 Sample Video
+
+[![Watch Video](https://reshist.me/homs_demo/app_screenshot/video_thumbnail.jpg)](https://reshist.me/homs_demo/sample_video.mp4)
+
