@@ -115,5 +115,5 @@ Stay tuned for upcoming updates! 🚀
 
 ## 🎥 Sample Video
 
-[![Watch Video](https://reshist.me/homs_demo/app_screenshot/video_thumbnail.jpg)](https://reshist.me/homs_demo/sample_video.mp4)
+[![Watch Video](https://reshist.me/homs_demo/app_screenshot/Thumbnail.png)](https://reshist.me/homs_demo/app_screenshot/sample_video.mp4)
 
