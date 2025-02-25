@@ -1,0 +1,10 @@
+## 📌 HOMS - Hostel Out Pass Management System (Flutter)  
+
+This repository contains only the `lib` folder and the `main.dart` file of the **HOMS App**.  
+If you need the complete source code, you can download it from the link below:  
+
+📥 [Download Full Source Code](https://reshist.me/homs_app_source_code/)  
+
+### 📂 Repository Content  
+- `lib/` - Contains all the Dart files for the Flutter app's functionality.  
+- `main.dart` - Entry point of the application.  
