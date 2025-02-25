@@ -41,6 +41,16 @@ To get a complete understanding of the project and see the full workflow, visit:
 
 Stay tuned for upcoming updates! 🚀  
 
+
+## 🎥 Sample Video
+
+<p align="center">
+  <a href="https://reshist.me/homs_demo/app_screenshot/sample_video.mp4">
+    <img src="https://reshist.me/homs_demo/app_screenshot/Thumbnail.png" alt="Watch Video" width="300">
+  </a>
+</p>
+
+
 ## 📸 Screenshots
 
 <p align="center">
@@ -111,14 +121,6 @@ Stay tuned for upcoming updates! 🚀
 
 <p align="center">
   <img src="https://reshist.me/homs_demo/app_screenshot/34.jpg" alt="App Screenshot 34" width="250">
-</p>
-
-## 🎥 Sample Video
-
-<p align="center">
-  <a href="https://reshist.me/homs_demo/app_screenshot/sample_video.mp4">
-    <img src="https://reshist.me/homs_demo/app_screenshot/Thumbnail.png" alt="Watch Video" width="300">
-  </a>
 </p>
 
 
