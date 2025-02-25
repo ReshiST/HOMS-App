@@ -16,7 +16,7 @@ It provides an efficient way for students to request passes and for hostel autho
 
 🛠️ Installation
   Clone the Repository
-      git clone https://github.com/yourusername/HOMS-Flutter.git
+      git clone https://github.com/ReshiST/HOMS App.git
       cd HOMS-Flutter
   Install Dependencies
       flutter pub get
