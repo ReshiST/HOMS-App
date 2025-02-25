@@ -14,19 +14,6 @@ It provides an efficient way for students to request passes and for hostel autho
       Backend: PHP (API)
       Database: MySQL
 
-🛠️ Installation
-  Clone the Repository
-      git clone https://github.com/ReshiST/HOMS App.git
-      cd HOMS-Flutter
-  Install Dependencies
-      flutter pub get
-  Run the App
-      flutter run
-  🔗 API Configuration
-  Update the baseUrl in the API service file to match your backend server.
-  Ensure the PHP backend is running with a configured MySQL database.
-
-👥 Contributors
-    Reshi - https:reshist.me
-📧 Contact
-    For any queries, feel free to reach out at streshi17@gmail.com or visit my Portfolio : https:reshist.me
+📂 Project Structure
+🔹 The repository contains the lib folder and main.dart file.
+🔹 If you need the complete source code, visit the "Full Source Code" file in this repository.
