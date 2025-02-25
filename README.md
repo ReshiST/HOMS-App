@@ -40,3 +40,7 @@ To get a complete understanding of the project and see the full workflow, visit:
 🔗 **[HOMS Web Demo](https://reshist.me/homs_demo)**  
 
 Stay tuned for upcoming updates! 🚀  
+
+Sample
+![App Screenshot](1.jpg)
+
