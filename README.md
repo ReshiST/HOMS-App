@@ -44,7 +44,7 @@ Stay tuned for upcoming updates! 🚀
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="1.jpg" alt="App Screenshot 1" width="250">
+  <img src="https:reshist.me/homs_demo/app screenshot/1.jpg" alt="App Screenshot 1" width="250">
   <img src="2.jpg" alt="App Screenshot 2" width="250">
   <img src="3.jpg" alt="App Screenshot 3" width="250">
 </p>
