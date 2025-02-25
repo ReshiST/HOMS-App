@@ -41,6 +41,7 @@ To get a complete understanding of the project and see the full workflow, visit:
 
 Stay tuned for upcoming updates! 🚀  
 
-Sample
+
 <img src="1.jpg" alt="App Screenshot" width="250">
+<img src="2.jpg" alt="App Screenshot" width="250">
 
